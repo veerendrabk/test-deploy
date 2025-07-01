@@ -69,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # test-deploy
+
+
+
+
+
+https://console.cloud.google.com/apis/library/artifactregistry.googleapis.com?project=deploymentautomation-test&inv=1&invt=Ab1mKw
+Artifact Registry API need to enable
