@@ -3,6 +3,22 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      {/* Header */}
+      <header className="header">
+        <div className="container">
+          <div className="header-content">
+            <div className="logo">
+              <h1 className="logo-text">Dataflix</h1>
+            </div>
+            <nav className="nav">
+              <a href="#features" className="nav-link">Features</a>
+              <a href="#about" className="nav-link">About</a>
+              <a href="#contact" className="nav-link">Contact</a>
+            </nav>
+          </div>
+        </div>
+      </header>
+
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
