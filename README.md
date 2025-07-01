@@ -84,3 +84,8 @@ gcloud artifacts repositories create react-repo \
   --location=us-central1 \
   --project=deploymentautomation-test \
   --description="Docker repository for React app"
+
+
+
+https://console.cloud.google.com/apis/api/run.googleapis.com/metrics?project=deploymentautomation-test&inv=1&invt=Ab1mNQ
+  Cloud Run Admin API
