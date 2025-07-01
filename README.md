@@ -76,3 +76,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 https://console.cloud.google.com/apis/library/artifactregistry.googleapis.com?project=deploymentautomation-test&inv=1&invt=Ab1mKw
 Artifact Registry API need to enable
+
+
+
+gcloud artifacts repositories create react-repo \
+  --repository-format=docker \
+  --location=us-central1 \
+  --project=deploymentautomation-test \
+  --description="Docker repository for React app"
