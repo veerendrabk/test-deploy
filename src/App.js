@@ -14,6 +14,7 @@ function App() {
               <a href="#features" className="nav-link">Features</a>
               <a href="#about" className="nav-link">About</a>
               <a href="#contact" className="nav-link">Contact</a>
+              <a href="https://hive.dataflix.com/" className="nav-link" target="_blank" rel="noopener noreferrer">Hive Dataflix</a>
             </nav>
           </div>
         </div>
